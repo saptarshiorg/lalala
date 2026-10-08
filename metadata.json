@@ -1,0 +1,6 @@
+{
+  "name": "EV SPORTS",
+  "description": "EV SPORTS — Live Sports, Cricket, Football, Movies, TV Shows & 24/7 Live TV Channels with embedded LibVLC 4K UHD StreamPulse player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

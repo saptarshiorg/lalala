@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EV SPORTS</string>
+    <string name="ev_streampulse">EV StreamPulse</string>
+    <string name="search_placeholder">Search, or paste IMDB (tt…) / TMDB id</string>
+    <string name="watch_now">Watch Now</string>
+    <string name="live_now">LIVE NOW</string>
+    <string name="upcoming_today">Upcoming Today</string>
+    <string name="top_10_movies">Top 10 Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="live_tv">Live TV</string>
+    <string name="sports">Sports</string>
+    <string name="favourites">Favourites</string>
+    <string name="vip_player">VIP Player</string>
+    <string name="multiview">Multiview</string>
+    <string name="dmca_title">Official DMCA &amp; Copyright Disclaimer</string>
+</resources>
